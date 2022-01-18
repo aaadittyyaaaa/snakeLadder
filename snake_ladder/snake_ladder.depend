@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1642524939 source:d:\codeblocks\snake_ladder\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<time.h>
+	<conio.h>
+
